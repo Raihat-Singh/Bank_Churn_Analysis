@@ -32,7 +32,7 @@ pip install -r requirements.txt
 # put Churn_Modelling.csv in notebooks/, then:
 jupyter notebook notebooks/bank_churn_analysis.ipynb
 ```
-Open `dashboard/index.html` directly, or enable GitHub Pages to host it. The upload button loads any CSV with the Kaggle columns; include `ChurnProbability` to keep the risk views.
+Open `dashboard/index.html` directly to view the results
 
 ## Skills demonstrated
 Data cleaning, EDA, feature engineering, leakage-aware preprocessing, model comparison with cross-validation, threshold tuning, permutation importance, and dashboard design.
