@@ -5,6 +5,7 @@ End-to-end churn project: data cleaning, EDA, predictive modelling, and an inter
 **Dataset:** Kaggle *Bank Customer Churn Modelling* (`Churn_Modelling.csv`, 10,000 customers). The raw file is not included; download it from Kaggle and place it next to the notebook (check the dataset's licence on its Kaggle page).
 
 ## Results
+
 | Model | CV ROC-AUC | Test ROC-AUC | Test accuracy |
 |---|---|---|---|
 | Logistic Regression | 0.843 | 0.848 | 76.4% |
