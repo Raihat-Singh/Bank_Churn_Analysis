@@ -3,6 +3,7 @@
 End-to-end churn project: data cleaning, EDA, predictive modelling, and an interactive glassmorphism dashboard.
 
 **Dataset:** Kaggle *Bank Customer Churn Modelling* (`Churn_Modelling.csv`, 10,000 customers). The raw file is not included; download it from Kaggle and place it next to the notebook (check the dataset's licence on its Kaggle page).
+
 **Live dashboard:** https://raihat-singh.github.io/Bank_Churn_Analysis/dashboard/
 ## Results
 
